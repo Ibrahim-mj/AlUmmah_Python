@@ -12,6 +12,4 @@ height = float(user_input)
 
 body_mass_index = weight/(height*2)
 
-print(round(body_mass_index, 2))
-
-# round(number to round, number of places intended)
+print(round(body_mass_index, 2)) # round(number to round, number of places intended)
